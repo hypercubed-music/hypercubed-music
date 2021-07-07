@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Unity-blue?style=for-the-badge&logo=unity">
 <img src="https://img.shields.io/badge/-Java-yellow?style=for-the-badge&logo=java">
 <img src="https://img.shields.io/badge/-C%2FC++-orange?style=for-the-badge&logo=c">
+
+[GitHub stats](https://github-readme-stats.vercel.app/api?username=hypercubed-music&show_icons=true&hide_border=true)
