@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###Languages
+🌱 I’m currently learning Ursina Game Engine (https://github.com/pokepetter/ursina)
+
+### Tech & Languages
 
 <img src="https://img.shields.io/badge/-Python-green?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/-Arduino-red?style=for-the-badge&logo=arduino">
+<img src="https://img.shields.io/badge/-Unity-blue?style=for-the-badge&logo=unity">
+<img src="https://img.shields.io/badge/-Java-yellow?style=for-the-badge&logo=java">
+<img src="https://img.shields.io/badge/-C%2FC++-orange?style=for-the-badge&logo=c">
