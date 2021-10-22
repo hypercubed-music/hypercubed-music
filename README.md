@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Java-yellow?style=for-the-badge&logo=java">
 <img src="https://img.shields.io/badge/-C%2FC++-orange?style=for-the-badge&logo=c">
 
-![hypercubed's GitHub stats](https://github-readme-stats.vercel.app/api?username=hypercubed-music)](https://github.com/anuraghazra/github-readme-stats)
+![hypercubed's GitHub stats](https://github-readme-stats.vercel.app/api?username=hypercubed-music)
