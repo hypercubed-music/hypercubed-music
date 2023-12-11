@@ -19,10 +19,6 @@ Here are some ideas to get you started:
 
 ### Tech & Languages
 
-<img src="https://img.shields.io/badge/-Python-green?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/-Arduino-red?style=for-the-badge&logo=arduino">
-<img src="https://img.shields.io/badge/-Unity-blue?style=for-the-badge&logo=unity">
-<img src="https://img.shields.io/badge/-Java-yellow?style=for-the-badge&logo=java">
-<img src="https://img.shields.io/badge/-C%2FC++-orange?style=for-the-badge&logo=c">
+Python, Unity/C#, Arduino, C/C++, Rust, Java
 
 ![hypercubed's GitHub stats](https://github-readme-stats.vercel.app/api?username=hypercubed-music)
