@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🤔 Looking for work...
+https://linktr.ee/hypercubed
+
+Discord: hypercubed364
+VRChat: hypercubed364
 
 ### Tech & Languages
 
