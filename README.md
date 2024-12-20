@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 https://linktr.ee/hypercubed
 
-
 Discord: hypercubed364
 
 VRChat: hypercubed364
@@ -25,5 +24,6 @@ VRChat: hypercubed364
 ### Tech & Languages
 
 Python, Unity/C#, Arduino, C/C++, Rust, Java
+For work I use Next.js, React, C# and Supabase
 
 ![hypercubed's GitHub stats](https://github-readme-stats.vercel.app/api?username=hypercubed-music)
